@@ -56,7 +56,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #c12258;
+  color: #B21F50;
   text-decoration-style: wavy;
   text-decoration-line: underline;
 }
@@ -72,7 +72,10 @@ a{
 
 td{
   border-top: 2px solid black;
-  padding: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
   text-align: center;
   vertical-align: middle;
 }
